@@ -1,6 +1,6 @@
 # 3D-Shooter
 A prototype of 3D shooter made with Unity
-# Discription
+# Description
 This project was made for acquaintance with 3D in Unity. 
 
 The player's character controls implemented with First Person Controller from Standart Assets.
